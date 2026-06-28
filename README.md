@@ -53,5 +53,3 @@ Wrong! Attempts left: 5
 ## Author
 
 Developed as part of the CodeAlpha Python Programming Internship.
-
-This project is a simple text-based Hangman gamemust guess the word one letter at a time within six incorrect attempts. The project demonstrates the use of Python fundamentals, including loops, conditional statements, lists, strings, and the random module.
